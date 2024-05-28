@@ -223,6 +223,7 @@
                 </div>
                 <div class="slide-container  main-section hidden animate__animated animate__slower" data-animate="animate__fadeInRight">
                     <table class="slide-table">
+                    <!--  div 칸나누기 -->
                         <td>
                             <h3>BestPick!</h3>
                             <a href="">
