@@ -236,13 +236,13 @@
                 </div>
                 <div class="review-container main-section hidden animate__animated animate__slower" data-animate="animate__fadeInUp">
                     <table class="review-table">
-                        <tr >
+                        <tr>
                             <td>
                                 <a href="">
                                     <img src="resources/img/review-img.png" alt="">
                                 </a>
-                            </td>
-                            <td>
+                             </td>
+                             <td>   
                                 <a href="">
                                     <img src="resources/img/review-img.png" alt="">
                                 </a>
